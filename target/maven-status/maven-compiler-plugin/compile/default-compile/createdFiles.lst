@@ -1,0 +1,6 @@
+com\mycompany\exsh_12_email\resources\JakartaEE10Resource.class
+com\he110w0r1d\business\User.class
+com\he110w0r1d\data\DBUtil.class
+com\mycompany\exsh_12_email\JakartaRestConfiguration.class
+com\he110w0r1d\data\UserDB.class
+com\he110w0r1d\email\EmailListServlet.class
